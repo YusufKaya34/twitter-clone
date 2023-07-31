@@ -1,0 +1,84 @@
+{
+    "login": {
+        "emailCheckText": "Please enter a valid email",
+        "forgotPasswordPage": "Find your Twiter account",
+        "forgotPasswordPage2": "Enter the email, phone number,or username \nassociated with your account to change your \npassword.",
+        "signInText": "To get started, first enter \nyour phone, email, or \n@username",
+        "forgotPass": "Forgot password?",
+        "startText": "See what's \nhappening in the \nworld right now.",
+        "nextButtonText": "Next",
+        "phoneAndEmail": "Phone and email",
+        "password": "Password",
+        "signUpAlertDialog": "Sign up error",
+        "okay": "Okay",
+        "enterPassword": "Enter your password",
+        "error": "Error",
+        "usernameNotUpdated": "Username is already in use, try a different username",
+        "usernameUpdated": "Your Username has been updated",
+        "failed": "Failed",
+        "successful": "Successful",
+        "profilePicSucceed": "Your profile photo has been updated",
+        "profilePicError": "Your profile photo could not be updated",
+        "day": "days",
+        "usernameError": "Username error",
+        "usernameError2": "Enter appropriate username and name",
+        "nameAtLeast": " Name must be at least 5 characters",
+        "usernameAtLeast": "Username must be at least 6 characters",
+        "passwordAtLeast": "The password should be 6 characters at least",
+        "thisEmailUsing": "This email is being used",
+        "signUpButtonText": "Create account",
+        "signInButtonText": "Have an account already?",
+        "signInButtonRichText": "Log in",
+        "signInText2": "Phone, email, or username",
+        "alertDialogText1": "Log in error",
+        "alertDialogText2": "I'll try",
+
+        "createAccountText": "Create your account",
+        "name": "Name",
+        "email": "Email",
+        "infoText": "By signing up, you agree to the",
+        "infoText2": " and Privacy Policy, including ",
+        "infoText3": ". Twitter may use your contact information, \nincluding your email adress and phone \nnumber for purposes outlined in our Privacy \nPolicy, like keeping your account secure and \npersonalizing our services, including ads.",
+        "infoText4": ". Others will be able to find you by email \nor phone number, when provided, unless you \nchoose otherwise.",
+        "infoRichText1": " Terms of \nService",
+        "infoRichText2": "Cookie \nUse",
+        "infoRichText3": " Learn \nmore",
+        "infoRichText4": " here",
+        "signUpButtonText2": "Sign up",
+        "usernameText": "What should we call you?",
+        "usernameText2": "Your @username is unique. You can always \nchange it later.",
+        "usernameText3": "Username"
+    },
+    "homePage": {
+        "welcomeUser": "Welcome !",
+        "profile": "Profile",
+        "profileSubmit": "Save changes",
+        "yourEmail": "Your email",
+        "shootPicture": "Take A Photo",
+        "pleaseShootPicture": "Please Take Photo",
+        "pickPicture": "Choose A Photo",
+        "pleasePickPicture": "Please Select A Photo",
+        "pickCamera": "Shoot from camera",
+        "pickGallery": "Choose from gallery",
+        "yourUsername": "Your Username",
+        "ThemeSettings": "Theme Settings",
+        "logOut": "Log out"
+    },
+    "Tweet": {
+        "tweetButtonText": "Tweet",
+        "tweetText": "What's happening?"
+    },
+    "NotificationPage": {
+        "Notification": "Notification page"
+    },
+    "SearchPage": {
+        "searchBarText": "Search in Twiter"
+    },
+    "UsersPage": {
+        "users": "Users"
+    },
+    "ChatPage": {
+        "appBarText":"Chat",
+        "writeMessage": "Write your message"
+    }
+}

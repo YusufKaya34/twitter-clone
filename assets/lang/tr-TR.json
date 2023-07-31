@@ -1,0 +1,84 @@
+{
+    "login": {
+        "emailCheckText": "Lütfen geçerli eposta adresini giriniz",
+        "forgotPasswordPage": "Twitter hesabınızı bulun",
+        "forgotPasswordPage2": "Şifrenizi değiştirmek için hesabınızla ilgili e-posta, telefon numarasını veya kullanıcı adı \ngirin.",
+        "signInText": "Başlamak için ilk önce \ntelefon numaranı, \ne-posta adresini veya \n@kullanıcıadını gir",
+        "forgotPass": "Şifreni mi unuttun?",
+        "startText": "Şu anda dünyada \nolup bitenleri gör.",
+        "nextButtonText": "İleri",
+        "phoneAndEmail": "Telefon ve e -posta",
+        "password": "Şifre",
+        "signUpAlertDialog": "Kayıt Hatası",
+        "okay": "Tamam",
+        "enterPassword": "Şifrenizi girin",
+        "error": "Hata",
+        "usernameNotUpdated": "Kullanıcı adı zaten kullanımda, farklı bir kullanıcı adı deneyin",
+        "usernameUpdated": "Kullanıcı adınız güncellendi",
+        "failed": "Başarısız",
+        "successful": "Başarılı",
+        "profilePicSucceed": "Profil fotoğrafınız güncellendi",
+        "profilePicError": "Profil fotoğrafınız güncellenemedi",
+        "day": "gün",
+        "usernameError": "Kullanıcı Adı Hatası",
+        "usernameError2": "Uygun kullanıcı adı ve adı girin ",
+        "nameAtLeast": "İsim en az 5 karakter olmalı",
+        "usernameAtLeast": "Kullanıcı adı en az 5 karakter olmalı",
+        "passwordAtLeast": "Şifre en az 6 karakter olmalı",
+        "thisEmailUsing": "Bu e-posta kullanımda",
+        "signUpButtonText": "Hesap oluştur",
+        "signInButtonText": "Zaten bir hesabın var mı?",
+        "signInButtonRichText": " Giriş yap",
+        "signInText2": "Telefon numarası, e-posta veya kullanıcı adı",
+        "alertDialogText1": "Giriş hatası",
+        "alertDialogText2": "Deneyeceğim",
+
+        "createAccountText": "Hesabını oluştur",
+        "name": "İsim",
+        "email": "E-posta",
+        "infoText": "Kaydolarak",
+        "infoText2": " Gizlilik Politikası \nve",
+        "infoText3": ". koşullarını kabul etmiş \nolursun. Twitter, hesabını güvende tutmak ve \nreklamlar dahil olmak üzere hizmetlerimizi \nkişiselleştirmek gibi, Gizlilik Politikamızda \nbelirtilen amaçlar doğrultusunda e-posta \nadresini ve telefon numaranı da içeren iletişim \nbilgilerini kullanabilir.",
+        "infoText4": ". aksini belirtmediğin sürece e-postanı \nve telefon numaranı girdiğinde diğerleri seni \nbulabilir.",
+        "infoRichText1": " Hizmet şartları",
+        "infoRichText2": " Çerez Kullanımı",
+        "infoRichText3": " Daha fazla bilgi al",
+        "infoRichText4": "\nBuradan",
+        "signUpButtonText2": "Kaydol",
+        "usernameText": "Kullanıcı adın ne olsun?",
+        "usernameText2": "kullanıcı_adın eşsizdir. Daha sonra burada her \nzaman değiştirebilirsin.",
+        "usernameText3": "Kullanıcı adı"
+    },
+    "homePage": {
+        "welcomeUser": "Hoşgeldin !",
+        "profile": "Profil",
+        "profileSubmit": "Değişiklikleri kaydet",
+        "yourEmail": "E-postanız",
+        "shootPicture": "Bir Resim Çekin",
+        "pleaseShootPicture": "Lütfen bir görsel çekiniz",
+        "pickPicture": "Bir Resim Seçin",
+        "pleasePickPicture": "Lütfen bir görsel seçiniz",
+        "pickCamera": "Kameradan çek",
+        "pickGallery": "Galeriden seç",
+        "yourUsername": "Kullanıcı adınız",
+        "ThemeSettings": "Tema ayarları",
+        "logOut": "Çıkış yap"
+    },
+    "Tweet": {
+        "tweetButtonText": "Tweet",
+        "tweetText": "Neler oluyor"
+    },
+    "NotificationPage": {
+        "Notification": "Bildirim sayfası"
+    },
+    "SearchPage": {
+        "searchBarText": "Twitter'da ara"
+    },
+    "UsersPage": {
+        "users": "Kullanıcılar"
+    },
+    "ChatPage": {
+        "appBarText":"Mesajlaşma",
+        "writeMessage": "Mesajınızı yazınız"
+    }
+}
